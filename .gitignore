@@ -17,8 +17,11 @@ DerivedData
 *.hmap
 *.xccheckout
 
-#CocoaPods
+# CocoaPods
 Pods
 
-#Carthage
+# Carthage
 Carthage/Build
+
+# Swift Package Manager
+.build/
